@@ -33,7 +33,7 @@ Firstly, this module that provides the support to connect from Composer to the O
 This is loaded using a node.js require statment, and the current preview will look for this in the global modules. 
 
 ```
-npm install -g @ampretia/composer-waller-redis
+npm install -g @ampretia/composer-wallet-redis
 ```
 
 ### *Step 3*
